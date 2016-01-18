@@ -1,0 +1,53 @@
+Duke Laundry App Team Members:
+
+All
+- Collaborated in E/R design and beginning plans/ideas; Made the E/R diagram
+- Helped write initial SQL queries 
+- Helped in setup attempt of Java Play
+
+Sally Al-Khamees
+Description of Effort:
+- Wrote draft of final report 
+- Created (with Sara) sql scripts to create/setup tables with constraints/triggers and load data into them for Play Java 
+   -Note: not using and not included in final product
+- Attempted to write implementation of simulation (Java)
+   -  Note: not using and not included in final product
+
+Karen Li
+Description of Effort:
+- Generated Table Data/ Insert Statements for Students table (Java)
+- Generated Simulation Data for laundry use (Java)
+- Wrote part of final report related to simulation data generation 
+- (with Rhondu) Collaborated on design of Simulation Data
+
+Sara Pak 
+Description of Effort:
+- Acted as main point of contact between group and course staff
+- Connected iPhone app to webserver/backend 
+- Created data for Machine and MachineUse tables in Java
+- (with Rhondu) Edited and finished final report 
+   - Added information related to frontend to final report
+- Lead planning and execution of team tasks
+- Created iPhone app (continued to modify it to implement more features)
+- Wrote simulation implementation natively in iPhone app
+   - Note: not using and not included in final product
+- Putting together basic infrastructure of web application:
+   - Lead setup of Play Java
+   - Creating (with Sally) and executing sql scripts to create/setup tables for Play Java (note: not using and not included in final product)
+   - Tie together backend with frontend
+
+Rhondu Smithwick
+Description of Effort: 
+- Connected backend/web server to iPhone App 
+- Continued to build upon backend, including making PHP code robust and database secure
+- Built upon, added, and edited SQL queries in PHP to fit front end goals
+- Lead design of simulation data generation and wrote the simulation's implementation 
+- Guided generation of table data 
+- (with Sara) Edited and finished final report 
+   - Added information related to backend to final report
+- Created backend infrastructure, including:
+   - Set up AWS EC2 and handling group AWS account
+   - Set up mySQL database 
+   - Set up Apache web server 
+- Wrote PHP API and built infrastructure for iPhone App connecting to it
+- Wrote working and final implementation of Simulation (Python)
