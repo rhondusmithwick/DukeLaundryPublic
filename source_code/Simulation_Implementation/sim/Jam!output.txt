@@ -1,0 +1,11 @@
+18.75, 941, washer, 6.25, ztn93, busy
+25.0, 947, dryer, 12.5, nyw00, busy
+31.25, 958, dryer, 12.5, sgy79, busy
+62.5, 948, dryer, 12.5, vjx64, busy
+68.75, 950, dryer, 12.5, kre30, busy
+156.25, 942, washer, 6.25, aeb74, busy
+206.25, 957, dryer, 75.0, ---, ooo
+231.25, 957, dryer, 12.5, vuq36, busy
+275.0, 949, dryer, 12.5, con51, busy
+275.0, 952, washer, 6.25, vui24, busy
+281.25, 957, dryer, 75.0, ---, available

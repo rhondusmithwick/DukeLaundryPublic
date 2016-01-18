@@ -1,0 +1,17 @@
+6.25, 1021, washer, 6.25, nhk27, busy
+18.75, 1030, dryer, 12.5, dbw40, busy
+18.75, 1024, washer, 6.25, txo64, busy
+43.75, 1021, washer, 75.0, ---, ooo
+50.0, 1033, washer, 6.25, hni55, busy
+56.25, 1040, dryer, 12.5, vkp64, busy
+87.5, 1035, dryer, 12.5, fqh83, busy
+118.75, 1021, washer, 75.0, ---, available
+156.25, 1039, dryer, 12.5, qqj90, busy
+156.25, 1031, washer, 6.25, ujy02, busy
+181.25, 1040, dryer, 12.5, xhg67, busy
+193.75, 1021, washer, 6.25, cwg85, busy
+250.0, 1039, dryer, 12.5, rwr09, busy
+256.25, 1023, washer, 6.25, aed46, busy
+275.0, 1031, washer, 75.0, ---, ooo
+287.5, 1028, dryer, 12.5, mvz99, busy
+350.0, 1031, washer, 75.0, ---, available

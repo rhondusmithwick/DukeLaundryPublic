@@ -1,0 +1,8 @@
+12.5, 1061, washer, 6.25, ezj08, busy
+12.5, 1061, washer, 6.25, vqm10, busy
+31.25, 1061, washer, 6.25, pty32, busy
+56.25, 1065, dryer, 12.5, fqz35, busy
+137.5, 1067, dryer, 12.5, oxw32, busy
+162.5, 1070, dryer, 12.5, yfo81, busy
+168.75, 1062, washer, 6.25, kgb40, busy
+181.25, 1067, dryer, 12.5, hgv21, busy
